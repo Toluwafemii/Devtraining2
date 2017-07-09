@@ -1,0 +1,154 @@
+.body{
+    
+}
+.tophead{
+    padding: 0px 0px 0px 0px;
+    border-bottom: 1px solid #ccc;
+}
+.toplft{
+    width: 160px;
+    display: block;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    padding: 10px;
+}
+.topnumb{
+    width: 145px;
+    float: right;
+    border-left: 1px solid #ccc;
+    padding: 10px;
+}
+.soc{
+    width: 145px;
+    float: right;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    padding: 10px;
+}
+.soc ul{
+    margin: 0px;
+    padding: 0px;
+}
+.soc ul li{
+    list-style: none;
+    display: block;
+    float: left;
+    padding: 0px 9px 0px 9px;
+}
+.soc ul li a{
+    text-decoration: none;
+    color: #000;
+    display: block;
+}
+.padlr{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.navbar-inverse{
+    background: none;
+    border: none;
+}
+a.navbar-brand{
+    color: #000;
+    font-weight: bold;
+    margin-top: 10px;
+}
+a.navbar-brand:hover{
+    color: #7f00ff;
+}
+.nav{
+    margin-top: 5px;
+}
+.navbar-inverse .navbar-nav> li > a{
+    color: #000;
+}
+.navbar-inverse .navbar-nav >li >a:hover, 
+.navbar-inverse .navbar-nav >li >a:focus{
+    color: #7f00ff;
+    background-color: transparent;
+}
+.navbar-inverse .navbar-nav >li >a.lbg{
+    color: #fff;
+    background-color: #7f00ff;
+}
+.navbar-inverse .navbar-nav >li >a.
+.sccpad{
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.tittle-h{
+  text-align: center;
+    padding-bottom: 15px;
+}
+.tittle-h span{
+    
+}
+.icn span{
+    display: block;
+    width: 90px;
+    height: 90px;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: aqua;
+    margin: auto;
+    color: #000;
+    font-size: 25px;    
+}
+.icn des{
+    
+}
+.containera{
+    background-color: #000;
+    border: #000 1px solid;
+    height: 400px;
+    color: #fff;
+}
+.ttyl{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 20px;
+    list-style: circle;
+    margin: auto;
+    margin-top: 10px;
+    margin-left: 0px;
+}
+.col-md-9{
+    padding-top: 60px;
+    padding-left: 200px;
+}
+.col-md-9 ul li{
+    
+}
+.styl{
+    text-align: left;
+}
+.flist{
+    text-decoration: none;
+    text-align: center;
+}
+.flist ul li{
+    
+}
+.lists{
+    text-align: left;
+    color: gray;
+}
+.styled{
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+    
+}
+.lists li:nth-child(1){
+    color: white;
+    padding-bottom: 7px;
+}
+/* Forms Styles */
+#Wrapper{
+    background-image: url(../img/edu%20bg.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size:cover;
+/* End Form Styles */
